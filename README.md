@@ -1,2 +1,1 @@
-# doomFireEffect
-Doom Fire Effect
+# Doom Fire Algorithm
