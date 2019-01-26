@@ -1,4 +1,4 @@
-# Doom Fire Algorithm
+# Doom's Fire Effect
 
 `This project is a sample with the purpose of replicating the fire effect of the Doom game.`
 
